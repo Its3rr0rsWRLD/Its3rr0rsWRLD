@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Error!
 - 👀 I’m interested in coding. Duh.
-- 👨🏻‍💻 I currently know Python, JavaScript, Lua, C#, C++, and A little HTML.
+- 👨🏻‍💻 I currently know Python, JavaScript, Lua, C#, C++, and HTML.
