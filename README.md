@@ -4,4 +4,3 @@
 
 # Current Projects
 - **⚡ [Nyxx](https://www.github.com/ThatError404/Nyxx)**
-- **▶ [YT Cloudy]()**
