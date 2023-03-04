@@ -13,13 +13,11 @@
 </p>
 
 <details align="center">
-  <summary>Trophies</summary>
   <img src="https://github-profile-trophy.vercel.app/?username=ThatError404&theme=nord&margin-w=15&margin-h=1&column=6" />
 </details>
 <p align="center">
   <details align="center">
-    <summary>Discord</summary>
-    <img src="[https://discord.c99.nl/widget/theme-1/862491763377569823.png](https://discord.c99.nl/widget/theme-2/760246873684050011.png)" />
+    <img src="[https://discord.c99.nl/widget/theme-2/760246873684050011.png](https://discord.c99.nl/widget/theme-2/760246873684050011.png)" />
   </details>
 </p>
 
