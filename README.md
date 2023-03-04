@@ -12,13 +12,9 @@
   <img src="https://github-readme-stats.vercel.app/api/?username=ThatError404&title_color=4F8CC9&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" />
 </p>
 
-<details align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ThatError404&theme=nord&margin-w=15&margin-h=1&column=6" />
-</details>
 <p align="center">
-  <details align="center">
-    <img src="[https://discord.c99.nl/widget/theme-2/760246873684050011.png](https://discord.c99.nl/widget/theme-2/760246873684050011.png)" />
-  </details>
+   <img src="https://github-profile-trophy.vercel.app/?username=ThatError404&theme=nord&margin-w=15&margin-h=1&column=6" />
+   <img src="[https://discord.c99.nl/widget/theme-2/760246873684050011.png](https://discord.c99.nl/widget/theme-2/760246873684050011.png)" />
 </p>
 
 <h1>I Know</h1>
