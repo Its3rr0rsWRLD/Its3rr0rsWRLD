@@ -14,7 +14,8 @@
 
 <p align="center">
    <img src="https://github-profile-trophy.vercel.app/?username=ThatError404&theme=nord&margin-w=15&margin-h=1&column=6" />
-   <img src="[https://discord.c99.nl/widget/theme-2/760246873684050011.png](https://discord.c99.nl/widget/theme-2/760246873684050011.png)" />
+  
+   <img src="https://discord.c99.nl/widget/theme-2/760246873684050011.png" />
 </p>
 
 <h1>I Know</h1>
