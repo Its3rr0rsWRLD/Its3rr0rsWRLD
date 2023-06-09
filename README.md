@@ -27,7 +27,7 @@
 
 I'm pretty much a nerd. I love to learn, just not in school besides science lol
 
-'''json
+```json
 {
     "Age": "14",
     "Birthday": "03/11/09",
@@ -37,4 +37,4 @@ while true
     x = (x*99999999999999)"""
     "Loves": ["Computers", "Coding", "Learning", "I can't even remember"]
 }
-'''
+```
