@@ -22,3 +22,19 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?size=38&duration=2000&color=ffffff&lines=python;javascript;lua;html">
 <p><img align="center" src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg"/></p>
+
+<h1>Stuff That Will Probably Get Me Doxxed</h1>
+
+I'm pretty much a nerd. I love to learn, just not in school besides science lol
+
+'''json
+{
+    "Age": "14",
+    "Birthday": "03/11/09",
+    "Stupidity": (pretend you can execute code in json) """
+x = 0
+while true
+    x = (x*99999999999999)"""
+    "Loves": ["Computers", "Coding", "Learning", "I can't even remember"]
+}
+'''
