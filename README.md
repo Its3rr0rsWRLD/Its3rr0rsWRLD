@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Roblox Exploitations & Injections, as well as other side projects<br>👯 I’m always open to have a second hand to help! Contributions are very appreciated.<br>🌱 I’m currently learning Reverse Engineering & Cybersecurity<br>💬 Ask me about anything!<br>⚡ Fun fact - I honestly don't know how to code well, Copilot screwed up my learning when I was 12 😔
+🔭 I’m currently working on Roblox Exploitations & Injections, as well as other side projects<br>👯 I’m always open to have a second hand to help! Contributions are very appreciated.<br>🌱 I’m currently learning Reverse Engineering & Cybersecurity<br>💬 Ask me about anything!<br>
 
 
 ## 🌐 Socials:
