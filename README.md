@@ -1,5 +1,5 @@
 ## Hey! 👋
-I'm 3rr0r (Error), a 15 years old developer from the United States.
+I'm 3rr0r (Error), a developer from the United States.
 
 - 🦔 Owner of [Rampage](https://discord.me/Rampage) The largest roblox botting tool
 
