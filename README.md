@@ -8,7 +8,7 @@ I'm 3rr0r (Error), a developer from the United States.
 + a lot more ;)
 
 ## Skills
-- 👨‍💻 JavaScript, Python
+- 👨‍💻 JavaScript, Python, Lua, C, C#
 - ⚙️ Electron
 - 💽 Mongo
 + a lot more :D
