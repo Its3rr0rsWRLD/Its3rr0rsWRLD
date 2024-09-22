@@ -1,16 +1,18 @@
 ## Hey! 👋
-I'm 3rr0r (Error), a developer from the United States.
+I'm 3rr0r (Error), a young developer just chilling n coding
 
-- 🦔 Owner of [Rampage](https://discord.me/Rampage) The largest roblox botting tool
+- 🦔 Previous Owner of [Rampage](https://github.com/Rampage-Software) The largest roblox botting tool
 
-- 👨‍💻 Going to school!
+- 🏫 Going to school!
+
+- 🧑‍💻 Making random projects
 
 + a lot more ;)
 
 ## Skills
 - 👨‍💻 JavaScript, Python, Lua, C, C#
 - ⚙️ Electron
-- 💽 Mongo
+- 💽 Discord.js
 + a lot more :D
 
 ## Contact
