@@ -1,4 +1,6 @@
-![standard (9)](https://github.com/user-attachments/assets/02faa2dd-83f0-40bd-956a-c732481932be)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/02faa2dd-83f0-40bd-956a-c732481932be" style="border-radius: 50px;"/>
+</div>
 
 # Hey! 👋
 I'm **3rr0r (Error)**, a passionate young developer who loves creating innovative projects. Whether it's working on random ideas or exploring new technologies, I'm always coding and learning something new!
